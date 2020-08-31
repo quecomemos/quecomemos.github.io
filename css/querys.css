@@ -1,0 +1,41 @@
+@media (max-width: 575px){
+    .tit-galeria{
+        font-size: 55px;
+    }
+    .desc-galeria{
+        font-size: 20px;
+    }
+    .tit-contactanos{
+        font-size: 55px;
+    }
+    .telefono{
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 576px){
+    .tit-galeria{
+        font-size: 45px;
+    }
+    .desc-galeria{
+        font-size: 15px;
+    }
+    .tit-contactanos{
+        font-size: 40px;
+    }
+    .telefono{
+        font-size: 33px;
+    }
+}
+
+@media (min-width: 768px){
+    .desc-galeria{
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 980px){
+    .ajusteDePantalla{
+        height: 100vh;
+    }
+}

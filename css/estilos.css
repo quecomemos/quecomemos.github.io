@@ -1,0 +1,62 @@
+* {
+    scroll-behavior: smooth;
+}
+body{
+    position: relative;
+    background-color: #e9ecef;
+}
+
+/* COLORES DE FONDOS */
+.fondoBlanco{
+    background-color: white;
+}
+.fondoGaleria{
+    background-image: url(../img/pexels/pizza.png);
+    background-size: 100%;
+}
+.fondoContacto{
+    background-image: url(../img/pexels/preparacion2.png);
+    background-size: 100%;
+}
+.fondoUbicacion{
+    background-image: url(../img/pexels/ubicacion.png);
+    background-size: 100%;
+}
+
+/* FUENTES */
+.font-balsamic{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+
+/* TITULOS PRINCIPALES */
+.tit-ubicacion{
+    font-size: 40px;
+}
+
+
+/* DESCRIPCIONES */
+.variedad{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.variedadFondoGradiente{
+    background: rgb(233,236,239);
+background: linear-gradient(180deg, rgba(233,236,239,1) 1%, rgba(250,250,250,1) 72%);
+}
+.pedido{
+    font-size: 25px;
+}
+.atencion{
+    font-size: 30px;
+}
+.dias{
+    font-size: 35px;
+}
+.horarios{
+    font-size: 21px;
+}
+.direccion{
+    font-size: 19px;
+}
